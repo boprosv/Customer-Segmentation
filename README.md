@@ -24,5 +24,5 @@ The backend logic leverages scikit-learn for clustering, LangChain for chaining 
 ![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182455.png?raw=true)
 ![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182539.png?raw=true)
 ![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182600.png?raw=true)
-![alt image]()
+![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182621.png?raw=true)
 ![alt image]()
