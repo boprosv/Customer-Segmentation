@@ -36,3 +36,12 @@ Please click on the image to enlarge and view in detail!
 ![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182600.png?raw=true)
 ![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182621.png?raw=true)
 ![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182641.png?raw=true)
+
+```text
+This tool is ideal for marketing, sales, or business development teams looking
+ to target the right customers with the right approach.
+ Whether it’s identifying high-value users, churn risks, or mobile-app-focused audiences,
+ this system turns complex clustering into a user-friendly, AI-powered experience.
+This customer segmentation project is highly customizable,
+ making it adaptable to a wide range of business use cases beyond the original ecommerce dataset.
+```
