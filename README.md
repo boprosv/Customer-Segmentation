@@ -11,4 +11,4 @@ This Customer Segmentation AI project is a data-driven application designed to h
 but also generates downloadable PDF reports per cluster,
  including customer contact details for front office or marketing use.
 ```
-![alt image]()
+![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/workflow%20diagram.png?raw=true)
