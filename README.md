@@ -21,7 +21,6 @@ The backend logic leverages scikit-learn for clustering, LangChain for chaining 
  demonstrating how advanced language models can make cluster analysis more accessible, explainable,
  and actionable in real-world business scenarios.
 ```
-```text
 The dataset I used in this project is a publicly available sample dataset from the “Ecommerce Customers”
 
 Title: Ecommerce Customers
@@ -29,7 +28,7 @@ Title: Ecommerce Customers
 Author: [Pavan Raj](https://www.kaggle.com/pavanraj159)
 
 URL: [Kaggle](https://www.kaggle.com/pavanraj159/ecommerce-data)
-```
+
 Please click on the image to enlarge and view in detail!
 
 ![alt image](https://github.com/boprosv/Customer-Segmentation/blob/main/Screenshot%202025-07-14%20182455.png?raw=true)
